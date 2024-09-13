@@ -49,7 +49,7 @@ Once the command interpreter is running, I will use it to manage AirBnB objects 
 
 - **Creating a New User:**
   ```bash
-  create User name="Agape" email="agape@example.com"
+  create User name="Rutazinda" email="rutazinda@example.com"
   ```
   Output:
   ```
@@ -62,12 +62,12 @@ Once the command interpreter is running, I will use it to manage AirBnB objects 
   ```
   Output:
   ```
-  User(<generated_id>) {name: "Agape", email: "agape@example.com", ...}
+  User(<generated_id>) {name: "Rutazinda", email: "rutazinda@example.com", ...}
   ```
 
 - **Updating a User's Email:**
   ```bash
-  update User <generated_id> email "diane_new@example.com"
+  update User <generated_id> email "elvis_new@example.com"
   ```
   Output:
   ```
